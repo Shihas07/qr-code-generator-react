@@ -1,0 +1,13 @@
+.input{
+  background-color: rgb(24, 23, 21);
+  height: 50px;
+}
+.input input{
+  background-color: rgb(255, 255, 255);
+  border: 10px;
+  height: 30px;
+  width: 200px;
+  color: black;
+  margin-top: 10px;
+
+}
